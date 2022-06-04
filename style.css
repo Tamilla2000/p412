@@ -1,0 +1,35 @@
+body{
+    background: hsl(206, 32%, 24%);
+}
+a{
+    text-decoration: none;
+    color: white;
+    text-align: rightX;
+}
+h1{
+    color: white;
+    display: inline;
+}
+h2,h3, #copywrite {
+    color:#648880;
+    display: inline;
+    }
+p{
+    color: white;
+}
+img, h5, h3, p{
+    width: 279px;
+} 
+button{
+    border: 1px solid white;
+    padding: 20px;
+    background-color:#293f50;
+    color: white;
+    text-align: center;
+}
+button:hover{
+    background-color: white;
+}
+#top{
+    text-align: right;
+}
